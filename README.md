@@ -3,14 +3,14 @@ Wierne odtworzenie gry Hans Kloss z ATARI XL/XE na system Android.
 
 ## TODO:
 
-- [ ] Chodzenie
-- [ ] Skakanie
-- [ ] Kolizja z obiektami
-- [ ] Winda
+- [x] Chodzenie
+- [x] Skakanie
+- [x] Kolizja z obiektami
+- [x] Winda
 - [ ] Przeciwnik dron bojowy (hamburger)
 - [ ] Przeciwnik zadaje DMG (odejmuje szynkę + kawę)
-- [ ] Winda w dół
-- [ ] Winda w górę
+- [x] Winda w dół
+- [x] Winda w górę
 - [ ] Podnieś jedzenie (szynka + kawa)
 - [ ] Podnieś klucz
 - [ ] Podnieś schemat
@@ -19,11 +19,11 @@ Wierne odtworzenie gry Hans Kloss z ATARI XL/XE na system Android.
 - [ ] Wskaźnik ilości kluczy
 - [ ] Wskaźnik ilości dokumentów
 - [ ] System głodu
-- [ ] Main menu
+- [x] Main menu
 - [ ] Poradnik jak grać (WASD, kliknij aby zacząć, E - podnieś)
 - [ ] Ekran - Game Over
 - [ ] Wskaźnik liczby punktów
-- [ ] Full Mapa
+- [x] Full Mapa
 - [ ] Ekran - Victory
 - [ ] Cheaty
 
