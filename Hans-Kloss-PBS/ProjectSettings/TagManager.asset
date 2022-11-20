@@ -6,6 +6,9 @@ TagManager:
   tags:
   - ElevatorTrigger
   - Elevator
+  - Door
+  - Coffee
+  - Ham
   layers:
   - Default
   - TransparentFX
