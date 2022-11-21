@@ -9,6 +9,8 @@ TagManager:
   - Door
   - Coffee
   - Ham
+  - SchemeTorn
+  - SchemeNormal
   layers:
   - Default
   - TransparentFX

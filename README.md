@@ -11,18 +11,18 @@ Wierne odtworzenie gry Hans Kloss z ATARI XL/XE na system Android.
 - [ ] Przeciwnik zadaje DMG (odejmuje szynkę + kawę)
 - [x] Winda w dół
 - [x] Winda w górę
-- [ ] Podnieś jedzenie (szynka + kawa)
-- [ ] Podnieś klucz
+- [x] Podnieś jedzenie (szynka + kawa)
+- [x] Podnieś klucz
 - [ ] Podnieś schemat
 - [ ] Przycisk - pokaż obecny stan schematu
-- [ ] Wskaźnik głodu (szynka + kawa)
-- [ ] Wskaźnik ilości kluczy
-- [ ] Wskaźnik ilości dokumentów
-- [ ] System głodu
+- [x] Wskaźnik głodu (szynka + kawa)
+- [x] Wskaźnik ilości kluczy
+- [x] Wskaźnik ilości dokumentów
+- [x] System głodu
 - [x] Main menu
 - [ ] Poradnik jak grać (WASD, kliknij aby zacząć, E - podnieś)
-- [ ] Ekran - Game Over
-- [ ] Wskaźnik liczby punktów
+- [x] Ekran - Game Over
+- [x] Wskaźnik liczby punktów
 - [x] Full Mapa
 - [ ] Ekran - Victory
 - [ ] Cheaty

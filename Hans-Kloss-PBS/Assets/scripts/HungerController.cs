@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class HungerController : MonoBehaviour
 {
-    private readonly float hungerRate = 2.0F;
+    private readonly float hungerRate = 2.5F;
 
     // Start is called before the first frame update
     void Start()

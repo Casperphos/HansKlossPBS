@@ -39,7 +39,7 @@ public class Key : MonoBehaviour
     private void PickUp()
     {
         uint newKey = uint.Parse(Inventory.GetKey()) + 1;
-        
+
         if (newKey < 10)
         {
             Inventory.SetKey("0" + newKey.ToString());
@@ -48,6 +48,7 @@ public class Key : MonoBehaviour
         {
             Inventory.SetKey(newKey.ToString());
         }
+
         Destroy(gameObject);
     }
 }
