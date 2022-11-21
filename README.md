@@ -13,8 +13,8 @@ Wierne odtworzenie gry Hans Kloss z ATARI XL/XE na system Android.
 - [x] Winda w górę
 - [x] Podnieś jedzenie (szynka + kawa)
 - [x] Podnieś klucz
-- [ ] Podnieś schemat
-- [ ] Przycisk - pokaż obecny stan schematu
+- [x] Podnieś schemat
+- [x] Przycisk - pokaż obecny stan schematu
 - [x] Wskaźnik głodu (szynka + kawa)
 - [x] Wskaźnik ilości kluczy
 - [x] Wskaźnik ilości dokumentów
