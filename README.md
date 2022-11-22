@@ -29,7 +29,7 @@ Wierne odtworzenie gry Hans Kloss z ATARI XL/XE na system Android.
 - [ ] Item: stempel => podnieś jeśli masz 9 i 12 schematów => Victory
 - [ ] Sound design
 - [ ] Przycisk 'Powróć' na ekranie GameOver i Victory
-- [ ] 
+
 ## TODO?:
 - [ ] Przycisk: Pokaż obecny stan schematu
 - [ ] Cheaty
