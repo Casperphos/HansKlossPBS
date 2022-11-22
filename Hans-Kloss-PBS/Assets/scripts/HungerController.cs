@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Threading;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -21,14 +22,13 @@ public class HungerController : MonoBehaviour
     {
 
     }
-
+    
     public void IncreaseHunger()
     {
         if (IsDead())
         {
-            CancelInvoke("IncreaseHunger");
-            SceneManager.LoadScene("GameOver");
-            return;         
+            Die();
+            return;
         }
 
         uint ham = uint.Parse(Food.GetHam());
@@ -46,7 +46,7 @@ public class HungerController : MonoBehaviour
         }
     }
 
-    public bool IsDead()
+    public static bool IsDead()
     {
         if (Food.GetHam() == "0" && Food.GetCoffee() == "0")
         {
@@ -56,5 +56,11 @@ public class HungerController : MonoBehaviour
         {
             return false;
         }
+    }
+
+    public static void Die()
+    {
+        SceneManager.LoadScene("GameOver");
+        return;
     }
 }

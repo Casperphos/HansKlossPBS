@@ -20,9 +20,9 @@ TagManager:
   - UI
   - 
   - ground
-  - 
-  - 
-  - 
+  - wall
+  - player
+  - enemy
   - 
   - 
   - 
