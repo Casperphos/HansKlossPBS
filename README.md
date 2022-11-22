@@ -29,10 +29,15 @@ Wierne odtworzenie gry Hans Kloss z ATARI XL/XE na system Android.
 - [ ] Item: stempel => podnieś jeśli masz 9 i 12 schematów => Victory
 - [ ] Sound design
 - [ ] Przycisk 'Powróć' na ekranie GameOver i Victory
-- [ ] Cheaty
-
+- [ ] 
 ## TODO?:
 - [ ] Przycisk: Pokaż obecny stan schematu
+- [ ] Cheaty
+
+## Bugi:
+- [ ] Dron nie odbija się od platform bo są otagowane 'ground'
+- [ ] Dron czasami spada przez windę
+- [ ] Ekran schematu się trochę buguje przy dziwnych aspektach np. 1:1
 
 ## Autorzy:
 - Kacper Krzyżniewski
