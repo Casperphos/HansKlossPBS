@@ -1,31 +1,38 @@
 # HANS KLOSS PBŚ EDITION 2022
 Wierne odtworzenie gry Hans Kloss z ATARI XL/XE na system Android.
 
-## TODO:
-
+## Done:
 - [x] Chodzenie
 - [x] Skakanie
 - [x] Kolizja z obiektami
 - [x] Winda
-- [ ] Przeciwnik dron bojowy (hamburger)
-- [ ] Przeciwnik zadaje DMG (odejmuje szynkę + kawę)
+- [x] Przeciwnik dron bojowy (hamburger)
+- [x] Przeciwnik zadaje DMG (odejmuje szynkę + kawę)
 - [x] Winda w dół
 - [x] Winda w górę
 - [x] Podnieś jedzenie (szynka + kawa)
 - [x] Podnieś klucz
-- [ ] Podnieś schemat
-- [ ] Przycisk - pokaż obecny stan schematu
+- [x] Podnieś schemat
 - [x] Wskaźnik głodu (szynka + kawa)
 - [x] Wskaźnik ilości kluczy
 - [x] Wskaźnik ilości dokumentów
 - [x] System głodu
 - [x] Main menu
-- [ ] Poradnik jak grać (WASD, kliknij aby zacząć, E - podnieś)
 - [x] Ekran - Game Over
 - [x] Wskaźnik liczby punktów
 - [x] Full Mapa
-- [ ] Ekran - Victory
+- [x] Ekran - Victory
+
+## TODO:
+- [ ] Guziki dezaktywujące karabin
+- [ ] Karabin
+- [ ] Item: stempel => podnieś jeśli masz 9 i 12 schematów => Victory
+- [ ] Sound design
+- [ ] Przycisk 'Powróć' na ekranie GameOver i Victory
 - [ ] Cheaty
+
+## TODO?:
+- [ ] Przycisk: Pokaż obecny stan schematu
 
 ## Autorzy:
 - Kacper Krzyżniewski
